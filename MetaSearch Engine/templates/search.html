@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block content %}
+<form class="search-wrapper cf" action="{{ url_for('search') }}" method=post>
+    <input type="text" size=50 name=query placeholder="Search here..." required="">
+    <button type="submit">Search</button>
+</form>
+{% endblock %}
