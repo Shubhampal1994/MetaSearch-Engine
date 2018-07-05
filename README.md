@@ -11,7 +11,7 @@
     Follow the following steps:
     1) You must first install virtualenv, pip and python3.
     2) Move to this file path "...\MetaSearch Engine" and open terminal/console at this path
-       where following folders & files are present:
+       where following folders & files are present(please ignore or delete other files if present):
         1 Folder - MetaSearch
         2 files - Readme.txt & requirements.txt
     3) Create virtualenv
